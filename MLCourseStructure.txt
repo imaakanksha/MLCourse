@@ -1,0 +1,60 @@
+1.What is Machine Learning?
+Machine Learning is a subset of artificial intelligence. It focuses mainly on the designing of systems. Thereby, allowing them to learn and make predictions based on some experiences which is data in the case of the machine.
+2. Artificial Intelligence vs Machine Learning vs Deep Learning
+AI : A technique which enables machines to mimic human Behaviour.
+ML : Subset of AI technique which use statistical methods to enable Machines to imporve with experiences.
+DL : Subset of ML which make the computations of multi-layer neural network feasible.
+3.How does Machine Learning Work?
+Training Data=>Train the ML Algorithm => Model Input Data => New Input Data => ML Algorithm => Prediction
+ML model are trained used labeled and unlabeled dataset to produce the successful model. The prediction is evaluated for the accuracy and if the accuracy is acceptable then the Machine Learning Model is deployed. Now if the accuracy of the model is not acceptable then the machine learning model is trained again and again with the augmented training data set.
+5. Machine Learning Types: Supervised, Unsupervised and Reinforcement.
+Supervised Learning : 
+Supervised Learning Algorithms: Linear Regression, Random Forest, Support Vector Machines
+Usecases of Supervised Machine Learning: Cortana,Weather Prediction, Biometric Attendance, Supervised Learning in Bank Predict Credit Wrthiness of Credit Card Holders, Supervised Learning in Healthcare : Predict Patient Readmission Rates, Supervised Learning in Retail Analyse Products Custmers Buy Together.
+
+Unsupervised Learning:
+Unsupervised Learning Algorithms: Apriori Algorithm, K-Means Algorithm, Hierarchical Clustering
+Usecases of Unsupervised Learning: Unsupervised Learning in Bang Segment Customers by Behaviural , Characteristics, Unsupervised Learning in Healthcare Categorize MRI Data by Normal  or Abnormal images. It uses the Deep Learning Technique that learn from model to learn the various information from the various images.
+Unsupervised Learning in Retail Recommend Products to Customers on the basis of Past Purchase
+Reinforcement Learning: Reinforcement Learning is a type of Machine Learning Algorithm which allows software agents and machines to automatically determing the idal behaviour on the basis of a particular Context to Maximize its performance. Reinforcement Learning is about the interaction between Learning Agent and Environment.The envioronment rewards the Learning Agent for the correct actiona and punishes for the wrong action.
+Reinforcement Training with Dog: Pablo trained Dog with the Reinforcement Learning.
+Reinforcement Usecases: Reinforcement Learning in Bank create "Next Best Offer" Model for the Call Centre. Reinforcement Learning in Healthcare Allocate Scarce Medical Resources to Handel Different ER Cases.
+Reinforcement Learning in Retail Reduce Excess Stock with Dynamic Pricing
+
+Data Science vs Machine Learning
+What is Data Science?
+Data Science is the Process of extracting useful insights from data by using a variety of tools, algorithms and Machine Learning Fundamentals.
+Programming + Statistics + Business = Data Science Domains
+Fields of Data Science
+Data Science is the Extraction of knowledge from data by using different techniques and algorithms.
+Artificial Intelligence
+Machine Learning
+Deep Learning
+
+Use Case: Recommendation System
+
+1) Business Requirements
+2) Data Acquisition
+    User Ratings
+    Comments
+    Cart History
+3) Data Processing
+    Missing Values
+    Fake Reviews
+    Unnecessary Data
+4) Data Exploration
+    Understand Pattern
+    Retrieve useful insights
+
+5) Data Modelling
+    Find Optimal Features
+    Build and Evaluate Machine Learning Model
+    Import Data
+    Data Cleaning
+    Build Model
+    Train Model
+    Test Model
+    Improve Efficiency
+    
+6) Data Optimization
+    Monitor the performance of the model
