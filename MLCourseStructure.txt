@@ -58,3 +58,36 @@ Use Case: Recommendation System
     
 6) Data Optimization
     Monitor the performance of the model
+
+Who is a Machine Learning (ML) Engineer?
+Machine Learning Engineers are sophisticated programmers who develop machines and systems that can learn and apply knowledge without any specific direction.
+
+What does an ML Engineer do?
+Machine Learning Engineers are creators f the algorithms that allow a machine to find patterns in its own programming data, teaching it to understand commands and even think for itself.
+
+Skills Needed to Become an ML Engineers
+
+Programming Skills
+
+R : Used for developing Statistical Software and Data Analysis.
+Python : Lets you Create, Analyse and Organize large chunks of Data with ease.
+Java Programming : Data Description
+
+Probability and Statistics
+
+A Formal Characterization of Probability & Statistics derived from it are at the heart of many Machine Learning Algorithms.
+Mean, Median, Variations
+
+Data Modelling and Evaluation
+
+Data Modelling is the process of estimating the underlying structure of a given dataset, with the goal of finding useful patterns and/or predicting properties of previously unseen instances.
+
+Applying Machine Learning Algorithms and Libraries
+
+Standard Implementations of Machine Learning Algorithm are widely available through libraries/packages/APIs.
+
+Software Engineering and System designing
+
+You need to understand how different pieces of the software work together. Communication with them & build appropriate interfaces for your component that others will depend on.
+
+Roles & Responsibilites of an ML Engineer
