@@ -1,3 +1,61 @@
+Machine Learning Course
+
+1) Introduction to Machine Learning Full Course
+2) Agenda of Machine Learning Full Course
+3) What is Machine Learning?
+4) Supervised Machine Learning
+5) Un-Supervised Machine Learning
+6) Reinforcement Machine Learning
+7) How to become a Machine Learning Engineer?
+8) Machine Learning Algorithms
+9) Linear Regression Algorithm
+10)What is Linear Regression?
+11)Linear Regression Use Cases
+12)Use Case - How to Implement Linear Regression using Python.
+13)Logistic Regression Algorithm
+14)Logistic Regression Use Cases
+15)Linear Regression vs Logistic Regression
+16)Decision Tree Algorithm
+17)Types of Classification
+18)What is Decision Tree?
+19)What is Pruning?
+20)Hands-on
+21)Random Forest
+22)Working of Random Forest
+23)Splitting methods
+24)Advantages and Disadvantages of Random Forest
+25)Hands-on Random Forest
+26)KNN Algorithm
+27)Features of the KNN Algorithm
+28)How KNN works?
+29)Hands-on KNN Algorithm
+30)Naive Bayes Classifier
+31)Support Vector Machine
+32)How do SVM work?
+33)K-Means Clustering Algorithm
+34)K Means Clustering
+35)Agglmerative Clustering
+36)Division Clustering
+37)Mean Shift Clustering
+38)Hierarchical Clustering
+39) How Agglomerative Clustering Works?
+40)Applications of Hierarchical Clustering
+41)Apriori Algorithm Explained
+42)Demo
+43)Linear Algebra Application
+44)Probability
+45)Statistics
+46)Types of Statistics
+47)How to select the correct predictive modeling Techniques?
+48)ML Model Deployment with Flask on Heroku
+49)Azure Machine Learning
+50)AWS Machine Learning
+51)Machine Learning Engineer Skills
+52)Machine Learning Engineer Job Trend, Salary & Resume
+53)Top Machine Learning Tools & Frameworks
+54)Machine Learning Roadmap
+55)Machine Learning Interview Questions & Ansers
+
 1.What is Machine Learning?
 Machine Learning is a subset of artificial intelligence. It focuses mainly on the designing of systems. Thereby, allowing them to learn and make predictions based on some experiences which is data in the case of the machine.
 2. Artificial Intelligence vs Machine Learning vs Deep Learning

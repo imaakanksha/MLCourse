@@ -1,0 +1,79 @@
+
+Lecture 1 - 5
+
+1) Introduction to Machine Learning Full Course
+2) Agenda of Machine Learning Full Course
+3) What is Machine Learning?
+4) Supervised Machine Learning
+5) Un-Supervised Machine Learning
+6) Reinforcement Machine Learning
+7) Libraries of Python - NumPy, Pandas, Matplotlib, Scikit-Learn
+
+Lecture 6-10
+
+8) Left Part of Libraries of Python - Pandas, Matplotlib, ScikitLearn
+9) Python for Machine Learning: What is Programming?, Modules, Comments & PIP, Variables & DataTypes
+10)Strings, List and Tuples
+11)Dictionary & Sets, Conditional Expression (if-else, Elif)
+12)Loops in Python (While Loop, For Loop)
+13)Functions & Recursions, File Input/Output
+14)Object Oriented Programming, Inheritance & more on OOPs
+15)Machine Learning Algorithms
+
+Lecture 11-15
+
+16) Linear Regression Algorithm, 
+    What is Linear Regression?, 
+    Linear Regression Use Cases
+    Use Case - How to Implement Linear Regression using Python.
+17)Logistic Regression Algorithm
+    Logistic Regression Use Cases
+    Linear Regression vs Logistic Regression
+18)Decision Tree Algorithm
+    Types of Classification
+    What is Decision Tree?
+    What is Pruning?
+    Hands-on
+19)Random Forest
+    Working of Random Forest
+    Splitting methods
+    Advantages and Disadvantages of Random Forest
+    Hands-on Random Forest
+20)KNN Algorithm
+    Features of the KNN Algorithm
+    How KNN works?
+    Hands-on KNN Algorithm
+21)Naive Bayes Classifier
+    Support Vector Machine
+    How do SVM work?
+
+Lecture 16-20
+
+22)K-Means Clustering Algorithm
+    K Means Clustering
+    Agglmerative Clustering
+    Division Clustering
+    Mean Shift Clustering
+    Hierarchical Clustering
+    How Agglomerative Clustering Works?
+    Applications of Hierarchical Clustering
+24)Apriori Algorithm Explained
+    Demo
+25)Linear Algebra Application
+    Probability
+    Statistics
+    Types of Statistics
+26)How to select the correct predictive modeling Techniques?
+    ML Model Deployment with Flask on Heroku
+    Azure Machine Learning
+    AWS Machine Learning
+29)Machine Learning Engineer Skills
+    How to become a Machine Learning Engineer?
+    Machine Learning Engineer Job Trend, Salary & Resume
+    Top Machine Learning Tools & Frameworks
+    Machine Learning Roadmap
+    Machine Learning Interview Questions & Ansers
+
+Lecture 21 - 25
+
+Left Topics and the Final Project
