@@ -41,7 +41,7 @@ Machine Learning Course
 39) How Agglomerative Clustering Works?
 40)Applications of Hierarchical Clustering
 41)Apriori Algorithm Explained
-42)Demo
+42)Demo of the Algorithm Explained
 43)Linear Algebra Application
 44)Probability
 45)Statistics

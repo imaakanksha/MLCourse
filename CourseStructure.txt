@@ -72,7 +72,7 @@ Lecture 16-20
     Machine Learning Engineer Job Trend, Salary & Resume
     Top Machine Learning Tools & Frameworks
     Machine Learning Roadmap
-    Machine Learning Interview Questions & Ansers
+    Machine Learning Interview Questions & Answers
 
 Lecture 21 - 25
 
