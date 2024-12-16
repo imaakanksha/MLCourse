@@ -149,3 +149,155 @@ Software Engineering and System designing
 You need to understand how different pieces of the software work together. Communication with them & build appropriate interfaces for your component that others will depend on.
 
 Roles & Responsibilites of an ML Engineer
+    Study some Prototypes & Transform them into Applications
+    Design and Build Machine Learning systems
+    Find Appropriate Algorithms and Tools
+    Develop Machine Learnig Applications
+    Select the right dataset & find the correct Data Representation methods
+    Run Machine Learning Tests and Experiments
+    Train the Systems for the Top-Notch accuracy
+
+Salary & Trends of an ML Engineer
+    The average salary for an ML Engineer in India is Rs.689,460.
+    The average salary for an ML Engineer in USA is $112,448
+
+Companies Hiring the ML Engineers
+    Apple
+    Facebook
+    Accenture
+    Salesforce
+    Uber
+    Microsoft
+
+Future of Machine Learning
+    The world is unquestionably changing in rapid and drastic ways. and the demand for the Machine Learning Engineers is going to keep increasing exponentially.
+
+Machine Learning Algorithm
+    Classification Algorithm
+    Category is predicted using the data.
+    Is the person a male or a female?
+    Is the mail spam or non-spam?
+
+    Anomaly Detection Algorithm
+    Identify unusual data points
+    Is there any fraud in this transaction?
+    Is someone trying to hack our network?
+
+    Clustering Algorithm
+    Groups data based on some Condition
+    Which type of house lies in this segment?
+    Which types of customers buys this product?
+
+    Regression Algorithm
+    Data itself is predicted
+    What is the market value of this house?
+    Is it going to rain tomorrow or not?
+
+    Let's Learn to code.
+
+    Iris Dataset
+Linear Regression Algorithm
+What is Regression in Machine Learning?
+    The main goal f regression is the construction of an efficient model to predict the dependent attributes from a bunch of attribute variables. A regression problem is when the output variable is either real or a continuous value i.e. salary, weight, area, etc.
+    We can also define rgression as a statistical means that is used in applications like housing, investing, etc. It is used to predict the relationship between a dependent value and a bunch of independent variables.
+Types of Regression
+    Simple Linear Regression
+    Polynomial Regression
+    Random Forest Regression
+    Decision Tree Regression
+    Support Vector Regression
+
+Simple Linear Regression: One of the most interesting and common regression technique is simple linear regression. In this, we predict the outcome of a dependent variable based on the independent variables, the relationship between the variables is linear.
+Polynomial Regression: In this regression technique, we transform the original features into polynomial features of a given degree and then perform the regression on it.
+Support Vector Machine Regression: For the Support Vector Machine Regression or SVR, we identify a hyperplane with maximum margin such that the maximum number of data points are within those margins. It is quite similar to the support vector machine Classification algorithm.
+Decision Tree Regression: A decision tree can be used for both regression and classification, we use the ID3 algorithm(Iterative Dichotomiser 3) to identify the splitting the node by reducing the standard deviation.
+Random Forest Regression: In Random Forest Regression, we ensemble the predictions of several decision tree regressions.
+
+What is Linear Regression?
+    Simple Linear Regression is a regression technique in which the independent variable has a linear relationship with the dependent variable. The straight line in the diagram is the best fit line.
+    e.g. Car Resale Value all the factors connect with Price of Car.
+    Linear Regression Terminologies
+     Cost Function: The cost function provides the best possible values for b0 and b1 to make the best fit line for the data points. We do it by converting this problem into a minimization problem to get the best values of b0 and b1. The error is minimized in this problem between the actual value and the predicted value.
+     Y = b0 + b1x +e
+     where, Y=Dependent Variables
+            b0= Y intercept
+            b1 = slope
+            x = independent Variables
+            e = error
+
+      Gradient Descent: It is a method of updating b0 and b1 values to reduce the MSE. The idea behind this is to keep iterating the b0 and b1 values until we reduce the MSE to the minimum.
+      A smaller learning rate takes closer to the minimum, but it takes more time and in case of a larger learning rate. The time taken is sooner but there is a chance to overshoot the minimum value.
+      Big Learning Rate
+      Small Learning Rate.
+
+Advantages and Disadvantages of Linear Regression
+Advantages:
+Linear Regression performs exceptionally well for the linearly seperable data.
+Easier to implement, interpret and efficient to train.
+It handles overfitting well using dimensionally reduction techniques, regularization, and cross-validation.
+One more advantage is the extrapolation beyond a specific data set.
+
+Disadvantages:
+The assumption of linearly between dependent and independent variables.
+It is often quite prone to noise and overfitting.
+Linear Regression is quite sensitive to outliers.
+It is prone to multicollinearity.
+
+Linear Regression Use Cases
+    Sales Forcasting
+    Risk Analysis
+    Housing Applications
+    Finance Applications
+
+Use Case - How to Implement the Linear Regression Using Python
+
+Loading the Data
+Extracting the Data
+Slicing the Data
+Train and Split Data
+Generate the Model
+Evaluate the Accuracy
+
+Logistic Regression : What and Why?
+
+Logistic Regression produces results in a binary format which is used to predict the outcome of a categorical dependent Variable. So, the outcome should be discrete/categrical such as:
+0 or 1
+Yes or No
+True or False 
+High and Low
+
+Why not Linear Regression?
+
+Since our value of Y will be between 0 and 1, the linear line has to be clipped at 0 or 1.
+With this, our resulting curve can not be formulated into a single formula. Hence, we came up with Logistic.
+
+Logistic Regression Curve = The Sigmoid "S" Function Curve
+With this, the threshld value indicates the probability of either winning or losing.
+The Logistic Regression Equation is derived from the Straight Line Equation.
+Equation of Straight Line = y = mx + c 
+Range is from -(infinity) to (infinity)
+
+Equation of the straight line = 
+Y = C + B1X1 + B2X2 +......... (RANGE IS FROM -(INFINITY) TO (INFINITY))
+
+Let's try to reduce the Logistic Regression Equation from the Straight Line Equation
+
+Y = C + B1X1 + B2X2 + ........ (In Logistic Equation Y can be only from 0 to 1)
+
+Now, to get the range of Y between 0 and infinity, let's transform y
+Y/1-Y  = Y = 0 then 0
+Y = 1 then infinity
+Now, the range is between 0 to infinity
+Final Logistic Regression Equation
+
+Logistic Regression Use - Cases
+Weather Prediction
+Classification Problems
+Determines Illness
+
+Implement Logistic Regression
+    Collecting Data
+    Analyzing Data
+    Data Wrangling
+    Train & Test
+    Accuracy Check
