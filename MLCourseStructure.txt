@@ -301,3 +301,158 @@ Implement Logistic Regression
     Data Wrangling
     Train & Test
     Accuracy Check
+
+Linear Regression VS Logistic Regression
+
+Definition:
+Linear Regression: To predict a continuous dependent variable based on values of independent variables.
+Logistic Regression: To predict a categorical dependant variable based on values of independent variables.
+
+Variable Type:
+Linear Regression: Continuous dependant variable
+Logistic Regression: Categorical dependant Variable.
+
+Estimation Method:
+Linear Regression : Least square Estimation
+Logistic Regression: Maximum like-hood Estimation
+
+Equation:
+Linear Regression: Y=b0 + b1x +e
+Logistic Regression : log(Y/1-Y) = C + B1X1 +B2X2 + .......
+
+Best Fit Line :
+Linear Regression : Straight Line
+Logistic Regression: Curve
+
+Relationship between DV & IV :
+Linear Regression : Linear relationship between the dependent and independent variable.
+Logistic Regression: Linear relationship is not mandatory
+
+Output:
+Linear Regression: Predicted integer value
+Logistic Regression: Predicted binary value (0 or 1)
+
+Applications:
+Linear Regression: Business domain, forecasting salses.
+Logistic Regression: Classification problems, cybersecurity, image processing
+
+Decision Tree Algorithm
+
+What is Classification?
+
+Note: It adds the data point to a particular labelled group on the basis of some conditions.
+Classification is the process of dividing the datasets into different categories  or groups by adding label.
+
+Two Types of Supervised Machine Learning
+
+Regression based Supervised Machine Learning : What you want to predict is continuous in nature.
+Classification based Supervised Machine Learning : What you want to predict is discrete in nature.
+
+Types of Classification
+
+Decision Tree
+Random Forest
+Naive Bayes
+KNN
+
+Decision Tree:
+Graphical representation of all the possible solutions to a decision.
+Decisions are based on some conditions
+Decision made can be easily Explained
+
+Am I hungry? Yes or No
+
+Random Forest:
+Builds multiple decision trees and merges them together
+More accurate and stable prediction
+Random decision forests correct for decision trees habit of overfitting to their training set
+Trained with the "bagging" method
+
+Naive Bayes:
+Classification Technique based on Bayes's Theorem and Bayes's Theorem is based on the Conditional Probability.
+We decide whether something happen or not on the basis or probability.
+Assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.
+
+K-Nearest Neighbors:
+Stores all the available cases and classifies new cases based on a similarity measure.
+The "K" in KNN algorithm is the nearest neighbours we wish to take vote from.
+
+What is Decision Tree?
+A Decision Tree is a graphical representation of all the possible solutions to a decision based on certain conditions.
+
+Decision Tree: Should I accept a new job offer or not?
+We would start with the root node i.e. What is the Salary I am getting?
+Decision Tree keep on splitting until we are able to find the solutions of our problem and the decision is taken successfully?
+
+Understanding Decision Tree
+
+Decisoin Tree Terminologies
+
+Pruning: Opposite of Splitting, basically removing unwanted branches from the tree.
+
+Branch/Sub Tree : Formed by splitting the tree/node
+
+Parent/Child Node: 
+Root Node is the parent node and all the other nodes branched from it is known as child node.
+
+Splitting : Splitting is dividing the root node/sub node into different parts on the basis of some cnditions.
+
+Root Node : It represents the entire population or sample and this further gets divided into two or more homogeneous sets.
+
+Leaf Node : Node can not further segregated into further nodes.
+
+Let's First Visualize the Decision Tree
+Let us check it with a Question: Whether I would play the Cricket Match or not today?
+Outlook => Humidity=> High or Normal / Windy=> Strong or Weak
+
+How does a Tree Decide Where to Split?
+Gini Index: The measure of impurity or purity used in building decision tree in CART is Gini Index.
+Information Gain: The information gain is the decrease in entropy after a dataset is split on the basis of an attribute. Constructing a decision tree is all about finding attribute that returns the highest inforamtion gain.
+Chi Square: It is an algorithm to find out the stastical significance between the differences between sub-nodes and parent node.
+Reduction in Variance: Reduction in variance is an algorithm used for continuous target variables (regression problems). The split with lower variance is selected as the criteria to split the population.
+
+What is Entropy?
+Defines randomness in the data.
+Entropy is just a metric which measures the impurity or
+The first step to solve the problem of a decision Tree.
+
+How we would build the Decisoin Tree?
+
+Step1) Compute the entropy for the Data set
+Step2) Which Node to Select As Root Node: Outlook
+We need to calculate the Information Gain, If the value of the Information Gain is more then it means that particular value would be lot helpful in predicting the case.
+If the Inforamtion Gain is higher for a particular feature, then that feature would be the root node for me.
+Hence, This is How your final complete Tree will Look like
+
+Are tree based models better than the Linear Model?
+
+Scikit-Learn Algorithm Cheat Sheet
+
+Regression
+Classification
+Clustering
+Dimnensionality Reduction
+
+Random Forest
+
+What is Random Forest?
+Random Forest is constructed using multiple decisoin trees and the final decisoin is obtained by majority votes of the decision trees.
+Majrity voting of the various Decision trees
+For Classification problems, it depends on the voting technique.
+For Regression Problems, it depends on finding the mean.
+
+Important Terms in Random Forest
+
+Root Node = Training Data Set is fed at the root node.
+Splitting = Gini and entropy methods to decide the optimal split.
+Decision Nodes = Provides the link to the leaf nodes
+Lead-Node = End point and no further division takes place.
+
+Working of Random Forest
+
+Random Sampling with replacement
+Ensemble technique used bootstrap aggregation/bagging
+How feature selection is done in classification and regression problems.
+The best split is chosen based on Gini Impurity or Information Gain Methods.
+
+Random Sampling with replacement
